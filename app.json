@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "my-app",
+    "slug": "my-app",
+    "plugins": [
+      "react-native-background-geolocation"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "859441e4-2aa8-40e8-8fd1-137bbbba3cd4"
+      }
+    },
+    "android": {
+      "package": "com.creditmate.app"
+    }
+  }
+}
