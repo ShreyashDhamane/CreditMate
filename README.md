@@ -1,0 +1,2 @@
+# CreditMate
+ Barclays Hackathon Project
